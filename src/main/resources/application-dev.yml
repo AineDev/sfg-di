@@ -1,4 +1,4 @@
 guru:
   username: DevYmlUsername
   password: DevYmlPassword
-  JdbcUrl: DevYmlPassword
+  JdbcUrl: DevYmlURL
